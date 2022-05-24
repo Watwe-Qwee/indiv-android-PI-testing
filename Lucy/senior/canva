@@ -1,0 +1,310 @@
+0.
+0, 4, 4, com.canva.app.editor.login.start.StartActivity
+1.
+4, 4, 0, com.canva.app.editor.login.email.EmailActivity
+2.
+3, 2, 1, com.canva.app.editor.login.email.EmailActivity
+3. 
+3, 2, 1, com.canva.app.editor.login.start.StartActivity
+4.
+4, 4, 0, com.canva.app.editor.login.start.StartActivity
+5.
+4, 4, 0, .auth.api.signin.ui.SignInActivity
+6.
+3, 3, 0, .common.account.AccountPickerActivity
+7.
+4, 4, 0, com.facebook.FacebookActivity
+8.
+18, 16, 2, com.facebook.FacebookActivity
+9.
+16, 14, 2, com.facebook.FacebookActivity
+10.
+17, 15, 2, com.facebook.FacebookActivity
+11.
+17, 15, 2, .WebViewBrowserActivity
+12.
+0, 0, 0, com.facebook.FacebookActivity
+13.
+4, 4, 0, .common.account.AccountPickerActivity
+14.
+7, 5, 2, com.canva.app.editor.login.start.StartActivity
+15.
+16, 14, 2, .WebViewBrowserActivity
+16.
+8, 6, 2, com.canva.app.editor.login.start.StartActivity
+17.
+4, 4, 0, .common.account.AccountChipAccountPickerActivity
+18.
+4, 4, 0, .signin.activity.SignInActivity
+19.
+18, 16, 2, com.canva.app.editor.login.start.StartActivity
+20.
+18, 16, 2, .WebViewBrowserActivity
+21.
+16, 14, 2, com.canva.app.editor.login.start.StartActivity
+22.
+21, 20, 1, com.canva.app.editor.categorytree.CategoryTreeActivity
+23.
+12, 12, 0, com.canva.app.editor.home.HomeActivity
+24.
+23, 22, 1, com.canva.app.editor.home.HomeActivity
+25. 
+16, 15, 1, com.canva.app.editor.home.HomeActivity
+26.
+19, 18, 1, com.canva.app.editor.home.HomeActivity
+27.
+16, 16, 0, com.canva.app.editor.home.HomeActivity
+28.
+15, 15, 0, com.canva.app.editor.home.HomeActivity
+29.
+1, 20, 21, com.canva.app.editor.home.HomeActivity
+30.
+21, 20, 1, com.canva.app.editor.home.HomeActivity
+31.
+11, 11, 0, com.canva.app.editor.home.HomeActivity
+32.
+11, 11, 0, com.android.internal.app.ChooserActivity
+33.
+20, 19, 1, com.canva.app.editor.home.HomeActivity
+34.
+20, 20, 0, com.canva.app.editor.home.HomeActivity
+35.
+35, 34, 1, com.canva.app.editor.home.HomeActivity
+36.
+36, 35, 1, com.canva.app.editor.home.HomeActivity
+37.
+6, 6, 0, com.canva.app.editor.home.HomeActivity
+38.
+6, 6, 0, .WebViewBrowserActivity
+39.
+11, 11, 0, com.canva.app.editor.editor.EditorActivity
+40.
+10, 10, 0, com.canva.app.editor.home.HomeActivity
+41.
+10, 10, 0, com.canva.app.editor.editor.EditorActivity
+42.
+2, 2, 0, .WebViewBrowserActivity
+43. 
+13, 13, 0, com.canva.app.editor.editor.EditorActivity
+44.
+0, 5, 5, com.canva.app.editor.home.HomeActivity
+45.
+5, 5, 0, com.canva.app.editor.home.HomeActivity
+46.
+22, 21, 1, com.canva.app.editor.home.HomeActivity
+47.
+22, 21, 1, com.canva.app.editor.categorytree.CategoryTreeActivity
+48.
+12, 12, 0, com.canva.app.editor.categorytree.CategoryTreeActivity
+49.
+23, 22, 1, com.canva.app.editor.editor.EditorActivity
+50.
+19, 19, 0, com.android.internal.app.ChooserActivity
+51.
+19, 19, 0, com.canva.app.editor.home.HomeActivity
+52.
+1, 21, 22, com.canva.app.editor.home.HomeActivity
+53.
+13, 13, 0, com.canva.app.editor.home.HomeActivity
+54.
+16, 16, 0, com.android.internal.app.ChooserActivity
+55.
+19, 18, 1, com.canva.app.editor.editor.EditorActivity
+56.
+16, 16, 0, com.canva.app.editor.editor.EditorActivity
+57.
+1, 6, 7, com.canva.app.editor.home.HomeActivity
+58.
+27, 26, 1, com.canva.app.editor.home.HomeActivity
+59.
+18, 18, 0, com.canva.app.editor.home.HomeActivity
+60.
+24, 23, 1, com.canva.app.editor.home.HomeActivity
+61. 
+18, 18, 0, com.android.internal.app.ChooserActivity
+62.
+18, 18, 0, com.canva.app.editor.editor.EditorActivity
+63.
+22, 21, 1, com.canva.createwizard.feature.CreateWizardActivity
+64.
+7, 7, 0, com.canva.createwizard.feature.CreateWizardActivity
+65. 
+14, 14, 0, com.canva.app.editor.editor.EditorActivity
+66.
+7, 7, 0, com.canva.app.editor.home.HomeActivity
+67.
+15, 14, 1, com.canva.app.editor.home.HomeActivity
+68.
+15, 15, 0, com.canva.app.editor.editor.EditorActivity
+69.
+7, 7, 0, com.canva.app.editor.editor.EditorActivity
+70.
+10, 10, 0, com.canva.magicresize.MagicResizeActivity
+71.
+8, 8, 0, com.canva.magicresize.MagicResizeActivity
+72.
+9, 9, 0, com.canva.app.editor.editor.EditorActivity
+73.
+21, 21, 0, com.canva.app.editor.home.HomeActivity
+74.
+6, 6, 0, com.canva.magicresize.MagicResizeActivity
+75.
+8, 8, 0, com.canva.app.editor.home.HomeActivity
+76.
+21, 21, 0, com.canva.app.editor.editor.EditorActivity
+77. 
+24, 24, 0, com.canva.app.editor.editor.EditorActivity
+78.
+10, 10, 0, com.canva.referral.feature.reward.ReferralRewardsV2Activity
+79.
+5, 5, 0, com.canva.referral.feature.reward.ReferralRewardsV2Activity
+80.
+5, 5, 0, .WebViewBrowserActivity
+81.
+0, 0, 0, com.canva.referral.feature.reward.ReferralRewardsV2Activity
+82.
+18, 17, 1, com.canva.app.editor.home.HomeActivity
+83.
+22, 21, 1, com.canva.premiumtemplates.feature.paywall.PremiumTemplatesPaywallActivity
+84.
+3, 3, 0, com.google.android.finsky.billing.acquire.BottomSheetUiBuilderHostActivity
+85.
+3, 3, 0, com.canva.app.editor.home.HomeActivity
+86.
+26, 26, 0, com.canva.app.editor.home.HomeActivity
+87.
+26, 26, 0, com.android.internal.app.ChooserActivity
+88.
+1, 5, 6, com.canva.app.editor.home.HomeActivity
+89.
+3, 3, 0, com.canva.premiumtemplates.feature.paywall.PremiumTemplatesPaywallActivity
+90.
+6, 6, 0, com.canva.premiumtemplates.feature.paywall.PremiumTemplatesPaywallActivity
+
+24 Episodes
+
+
+
+0,com.canva.app.editor.login.start.StartActivity,4,4
+1,com.facebook.FacebookActivity,4,0
+2,com.facebook.FacebookActivity,16,2
+3,com.facebook.FacebookActivity,6,1
+4,.WebViewBrowserActivity,6,1
+5,com.facebook.FacebookActivity,0,0
+6,com.canva.app.editor.login.start.StartActivity,6,1
+7,com.canva.app.editor.login.start.StartActivity,4,0
+8,com.canva.app.editor.login.email.EmailActivity,4,0
+9,com.canva.app.editor.login.start.StartActivity,2,1
+10,.common.account.AccountPickerActivity,4,0
+11,com.canva.app.editor.login.email.EmailActivity,2,1
+12,.WebViewBrowserActivity,16,2
+13,.WebViewBrowserActivity,6,2
+14,com.facebook.FacebookActivity,17,2
+15,com.facebook.FacebookActivity,12,2
+16,com.facebook.FacebookActivity,10,2
+17,com.facebook.FacebookActivity,11,2
+18,.WebViewBrowserActivity,14,2
+19,com.facebook.FacebookActivity,14,2
+20,com.facebook.FacebookActivity,15,2
+21,com.canva.app.editor.login.start.StartActivity,14,2
+22,com.facebook.FacebookActivity,4,2
+23,com.facebook.FacebookActivity,5,2
+24,.WebViewBrowserActivity,17,2
+25,com.canva.app.editor.login.start.StartActivity,5,1
+26,com.canva.app.editor.home.HomeActivity,20,1
+27,com.canva.app.editor.home.HomeActivity,6,0
+28,com.canva.app.editor.home.HomeActivity,20,21
+29,com.canva.createwizard.feature.CreateWizardActivity,20,1
+30,com.canva.createwizard.feature.CreateWizardActivity,7,0
+31,com.canva.createwizard.feature.CreateWizardActivity,8,0
+32,com.canva.app.editor.editor.EditorActivity,9,0
+33,com.canva.app.editor.editor.EditorActivity,10,0
+34,com.canva.magicresize.MagicResizeActivity,11,0
+35,com.canva.magicresize.MagicResizeActivity,8,0
+36,com.canva.app.editor.editor.EditorActivity,8,0
+37,com.canva.app.editor.editor.EditorActivity,11,0
+38,com.canva.app.editor.home.HomeActivity,11,0
+39,com.canva.app.editor.home.HomeActivity,7,0
+40,com.canva.app.editor.home.HomeActivity,34,1
+41,com.canva.app.editor.home.HomeActivity,18,1
+42,com.canva.app.editor.home.HomeActivity,22,1
+43,com.canva.app.editor.home.HomeActivity,14,1
+44,com.canva.app.editor.home.HomeActivity,27,1
+45,com.canva.app.editor.home.HomeActivity,15,1
+46,com.canva.app.editor.home.HomeActivity,15,0
+47,com.canva.app.editor.home.HomeActivity,28,1
+48,com.canva.app.editor.categorytree.CategoryTreeActivity,20,1
+49,com.canva.app.editor.categorytree.CategoryTreeActivity,12,0
+50,com.canva.app.editor.home.HomeActivity,12,0
+51,com.canva.app.editor.home.HomeActivity,31,1
+52,com.android.internal.app.ChooserActivity,15,0
+53,com.canva.app.editor.home.HomeActivity,6,7
+54,com.canva.app.editor.home.HomeActivity,10,0
+55,com.android.internal.app.ChooserActivity,13,0
+56,com.canva.app.editor.home.HomeActivity,13,0
+57,com.canva.premiumtemplates.feature.paywall.PremiumTemplatesPaywallActivity,20,1
+58,com.canva.premiumtemplates.feature.paywall.PremiumTemplatesPaywallActivity,3,0
+59,com.canva.app.editor.home.HomeActivity,3,0
+60,com.android.internal.app.ChooserActivity,11,0
+61,com.canva.app.editor.home.HomeActivity,16,0
+62,com.canva.createwizard.feature.CreateWizardCustomDimensionsActivity,7,0
+63,com.canva.createwizard.feature.CreateWizardCustomDimensionsActivity,6,2
+64,com.canva.app.editor.login.start.StartActivity,2,0
+65,com.facebook.FacebookActivity,6,2
+66,com.canva.app.editor.login.start.StartActivity,6,2
+67,com.canva.app.editor.login.start.StartActivity,5,2
+68,com.canva.app.editor.login.start.StartActivity,15,2
+69,com.facebook.FacebookActivity,8,2
+70,com.canva.app.editor.login.start.StartActivity,16,2
+71,.WebViewBrowserActivity,15,2
+72,com.canva.app.editor.login.start.StartActivity,17,2
+73,.WebViewBrowserActivity,5,2
+74,com.facebook.FacebookActivity,18,0
+75,.common.account.AccountPickerActivity,3,3
+76,com.canva.app.editor.login.start.StartActivity,3,0
+77,com.canva.app.editor.home.HomeActivity,21,1
+78,com.canva.app.editor.home.HomeActivity,26,1
+79,com.canva.app.editor.home.HomeActivity,19,0
+80,com.canva.app.editor.editor.EditorActivity,19,0
+81,com.google.android.finsky.billing.acquire.BottomSheetUiBuilderHostActivity,7,0
+82,com.canva.app.editor.editor.EditorActivity,7,0
+83,com.canva.app.editor.editor.EditorActivity,23,1
+84,com.canva.app.editor.editor.EditorActivity,14,0
+85,com.canva.app.editor.home.HomeActivity,21,22
+86,com.canva.app.editor.categorytree.CategoryTreeActivity,21,1
+87,.WebViewBrowserActivity,6,0
+88,com.google.android.finsky.billing.acquire.BottomSheetUiBuilderHostActivity,8,2
+89,com.canva.app.editor.home.HomeActivity,19,1
+90,com.canva.app.editor.home.HomeActivity,35,1
+91,com.android.internal.app.ChooserActivity,16,0
+92,com.canva.premiumtemplates.feature.paywall.PremiumTemplatesPaywallActivity,21,1
+93,com.android.internal.app.ChooserActivity,7,0
+94,com.google.android.finsky.billing.acquire.BottomSheetUiBuilderHostActivity,3,0
+95,com.canva.app.editor.editor.EditorActivity,18,0
+96,com.android.internal.app.ChooserActivity,18,0
+97,com.canva.app.editor.home.HomeActivity,18,0
+98,com.canva.app.editor.home.HomeActivity,39,1
+99,com.canva.app.editor.editor.EditorActivity,16,0
+100,com.canva.app.editor.editor.EditorActivity,15,0
+101,com.canva.magicresize.MagicResizeActivity,13,1
+102,com.canva.app.editor.home.HomeActivity,17,1
+103,com.canva.app.editor.home.HomeActivity,23,1
+104,com.canva.app.editor.home.HomeActivity,4,0
+105,com.canva.app.editor.editor.EditorActivity,3,0
+106,com.android.internal.app.ChooserActivity,3,0
+107,.WebViewBrowserActivity,2,0
+108,com.canva.app.editor.home.HomeActivity,5,5
+109,com.canva.app.editor.home.HomeActivity,5,0
+110,com.canva.app.editor.home.HomeActivity,1,0
+111,com.canva.app.editor.home.HomeActivity,20,0
+112,com.canva.app.editor.editor.EditorActivity,20,0
+113,com.android.internal.app.ChooserActivity,19,0
+114,com.android.internal.app.ChooserActivity,20,0
+115,com.canva.createwizard.feature.CreateWizardActivity,14,1
+116,com.canva.quickflow.feature.QuickFlowActivity,8,0
+117,com.canva.quickflow.feature.QuickFlowActivity,15,0
+118,com.canva.createwizard.feature.CreateWizardActivity,15,0
+119,com.canva.createwizard.feature.CreateWizardActivity,26,1
+120,com.canva.app.editor.editor.EditorActivity,18,1
+121,com.canva.magicresize.MagicResizeActivity,7,0
+122,com.canva.app.editor.home.HomeActivity,17,0

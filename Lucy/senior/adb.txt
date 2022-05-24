@@ -1,0 +1,3 @@
+dumpsys window windows | grep -E "mCurrentFocus"
+
+com.duolingo.onboarding.WelcomeFlowActivity

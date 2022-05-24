@@ -1,0 +1,55 @@
+khunlook
+appPackage = 'hda.app.khunlook'
+wait_activity = 'com.example.babiescare.MainMenu.Main_SplashScreenActivity'
+
+habit tracker
+appPackage = 'com.oristats.habitbull'
+wait_activity = 'com.oristats.habitbull.activities.LoginActivity'
+
+randomchat
+appPackage = 'devcrazzy.randomchat'
+wait_activity = 'devcrazzy.randomchat.view.InitActivity'
+
+canva
+appPackage = 'com.canva.editor'
+wait_activity = 'com.canva.app.editor.splash.SplashActivity'
+
+microsoft team
+appPackage = ''
+wait_activity = ''
+
+spotify
+appPackage = ''
+wait_activity = ''
+
+weather forecast
+appPackage = 'com.graph.weather.forecast.channel'
+wait_activity = 'com.graph.weather.forecast.channel.MainActivity'
+
+weatherf
+appPackage = 'com.droidteam.weather'
+wait_activity = 'com.droidteam.weather.activities.SettingActivity'
+
+skyscanner
+appPackage = 'net.skyscanner.android.main'
+wait_activity = 'net.skyscanner.go.activity.home.HomeActivity'
+
+gcalendar
+appPackage = 'com.google.android.calendar'
+wait_activity = 'com.google.android.calendar.timely.WhatsNewFullScreenImpl'
+
+gnews
+appPackage = 'com.google.android.apps.magazines'
+wait_activity = 'com.google.apps.dots.android.app.activity.CurrentsStartActivity'
+
+duolingo
+appPackage = 'com.duolingo'
+wait_activity = 'com.duolingo.app.LoginActivity'
+
+facebook
+appPackage = 'com.facebook.katana'
+wait_activity = 'com.facebook.katana.LoginActivity'
+
+mycalendar 
+appPackage = 'labs.anonymous.mycalendar' 
+wait_activity = 'labs.anonymous.mycalendar.MainActivity'
